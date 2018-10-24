@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://santansarah.github.io/fieldnation/intro/</loc>
+  </url>
+  
+  <url>
+    <loc>https://santansarah.github.io/fieldnation/main/</loc>
+  </url>
+  
+  <url>
+    <loc>https://santansarah.github.io/fieldnation/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://santansarah.github.io/fieldnation/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://santansarah.github.io/fieldnation/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
